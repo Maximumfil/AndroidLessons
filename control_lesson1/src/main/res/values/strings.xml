@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">control_lesson1</string>
+    <string name="is_work_number">Is work Number?</string>
+    <string name="save_contact">Save Contact</string>
+    <string name="name">Name</string>
+    <string name="contact_info">Contact Info</string>
+    <string name="call">call</string>
+    <string name="avatar">avatar</string>
+    <string name="maksim_fil">Maksim Fil</string>
+    <string name="_89962394140">89962394140</string>
+    <string name="button">Button</string>
+    <string name="new_life_for_mirea_activity">New life for mirea activity</string>
+</resources>
